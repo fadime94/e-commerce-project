@@ -14,3 +14,4 @@ During the course of the coming weeks, we'll be building the new better Amazon, 
   
 #### Render the product component on the products page:
   * Passing the props to the components from an array of objects where each object represent a product  
+[![Run on Repl.it](https://repl.it/badge/github/fadime94/e-commerce-project)](https://repl.it/github/fadime94/e-commerce-project)
